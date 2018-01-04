@@ -1,5 +1,5 @@
 var pre = document.querySelectorAll("pre");
-var colors = ["red","red","orange","yellow","chartreuse","cyan","violet","purple","purple","indigo","black",];
+var colors = ["red","red","orange","yellow","chartreuse","cyan","violet","purple","purple","indigo","black"];
 var tempColors = [];
 
 
